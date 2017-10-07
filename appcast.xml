@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Icon Hero by Duoc Nguyen</title>
+    <link>https://raw.githubusercontent.com/nguyenvanduocit/icon-hero-sketch/master/appcast.xml</link>
+    <description>Icon take easy.</description>
+    <language>en</language>
+    <item>
+      <title>1.0.0</title>
+      <pubDate>Thu, 7 October 2017 12:10:42 +0000</pubDate>
+      <enclosure url="https://github.com/nguyenvanduocit/icon-hero-sketch/releases/download/1.0.0/IconHero.sketchplugin.zip" type="application/octet-stream" sparkle:version="1.0"/>
+    </item>
+  </channel>
+</rss>
